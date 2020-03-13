@@ -16,9 +16,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '微软风格指南'
-copyright = '2020, Microsoft'
-author = 'Microsoft'
+project = 'sphinx'
+copyright = '2020, wikinee'
+author = 'wikinee'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
